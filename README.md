@@ -4,9 +4,9 @@
 
 # Code and materials from my case studies
 
-A repository to store and share the code and materials from the various case studies that I've done.
-The reason for documenting these cases so that others can take something from it and also hopefully enhance the resources.
-This material is part of the audio visual content created on my YouTube channel: Unicast Cloud Training
+A repository to store and share the code and materials from the various case studies that I've done. The reason for documenting these cases so that others can take something from it and also hopefully enhance their knowledge.
+
+This material is part of the audio visual content created on my YouTube channel: [Unicast Cloud Training](https://www.youtube.com/channel/UCYpdjQbbkBQpDWI1rapkVUA)
 
 <div> 
   <a href="https://www.linkedin.com/in/antoniocarlosjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
