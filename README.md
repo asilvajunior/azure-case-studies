@@ -2,7 +2,7 @@
 <img src="assets/images/unicast_logo.png">
 </p>
 
-# Code and materials from my case studies
+# Code and materials from my Azure case studies
 
 A repository to store and share the code and materials from the various case studies that I've done. The reason for documenting these cases so that others can take something from it and also hopefully enhance their knowledge.
 
