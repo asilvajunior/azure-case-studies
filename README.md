@@ -23,7 +23,7 @@ This material is part of the audio visual content created on my YouTube channel:
 
 - [TBD]
 
- <p align='center'>
+<p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
